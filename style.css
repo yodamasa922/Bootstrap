@@ -1,0 +1,9 @@
+.top {
+  background-image: url(top.png);
+  background-size: cover;
+}
+
+@font-face {
+  font-family: ROLAchan.ttf;
+  
+}
